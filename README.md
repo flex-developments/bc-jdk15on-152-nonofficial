@@ -4,6 +4,7 @@ Unificación de jars para compilación única.
 
 ## Dependencias
  * javax.mail  (https://java.net/projects/javamail/pages/Home)
+ * JUnit 4.10
 
 ## Copyright (C) 2000-2015 - The Legion Of The Bouncy Castle
  * The Legion Of The Bouncy Castle (http://www.bouncycastle.org)
